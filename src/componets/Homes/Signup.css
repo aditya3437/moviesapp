@@ -1,0 +1,74 @@
+.signup_header img{
+  height:10%;
+  width: 100%;
+
+}
+.signup_span {
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+  
+}
+.signup_span span{
+  font-weight: bold;
+  font-size:x-large;
+  margin-right: 12rem;
+}
+.signup_data{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  top:15%;
+  left: 40%;
+  opacity: .8;
+  background-color: black;
+  min-height: 560px;
+  min-width: 350px;
+  align-items: center;
+  z-index: 99;
+  
+
+}
+.signup_me{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+}
+.signup_data input{
+  height: 2rem;
+  width: 18rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  padding: 20px;
+}
+button{
+  width: 18rem;
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.signup_header{
+  position: relative;
+}
+.signup-background{
+  position: relative;
+}
+.checkbox{
+  width: 18vw;
+  display: flex;
+  margin-right: 1rem;
+  justify-content: center;
+  gap: 13px;
+
+ 
+  
+}
+.signup_me{
+margin-top: 1rem;
+
+}
+.checkbox input{
+width: 14px;
+
+}
