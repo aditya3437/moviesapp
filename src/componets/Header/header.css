@@ -29,6 +29,11 @@ header button {
   font-size: 15px;
   font-weight: bold;
 }
+
+.username-classed{
+  font-size: 1rem;
+  margin: 0 1rem;
+}
 .toggle {
   display: none;
 }
